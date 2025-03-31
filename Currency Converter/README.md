@@ -21,7 +21,7 @@ It sends a request to a URL (such as https://2024-03-06.currency-api.pages.dev/v
 
 Error handling is included to manage scenarios such as network issues or invalid responses.
 
-##🎨 3. Intuitive User Interface (UI)
+## 🎨 3. Intuitive User Interface (UI)
 Clean and simple design with dropdowns for selecting currencies.
 
 Input field to enter the amount to be converted.
@@ -37,7 +37,7 @@ Default currencies are preselected (e.g., USD to INR for Indian users).
 
 ## Technical Stack:
 
-📚 Frontend:
+### 📚 Frontend:
 HTML: Structure of the application.
 CSS: Styling and responsiveness.
 JavaScript: Handles business logic, API calls, and UI updates.
