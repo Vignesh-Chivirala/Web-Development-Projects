@@ -1,9 +1,9 @@
-                                                      Currency Converter Web Application
+                                                     #Currency Converter Web Application#
 
 
 ![Screenshot 2025-03-31 200820](https://github.com/user-attachments/assets/d3d5c092-1ec8-4d9b-98b0-254235cc42a3)
 
-🎯 Overview:
+##🎯 Overview:##
 The Currency Converter is a web-based application that allows users to seamlessly convert values between different currencies. It leverages real-time exchange rates provided by an external API, ensuring accurate and up-to-date conversions. The application is built using HTML, CSS, and JavaScript to create an intuitive and user-friendly interface.
 
 ⚡️ Key Features:
