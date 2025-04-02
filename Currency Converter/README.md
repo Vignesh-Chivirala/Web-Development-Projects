@@ -38,7 +38,7 @@ Default currencies are preselected (e.g., USD to INR for Indian users).
 ## Technical Stack:
 
 ### 📚 Frontend:
-HTML: Structure of the application.
-CSS: Styling and responsiveness.
+HTML: Structure of the application.<br>
+CSS: Styling and responsiveness.<br>
 JavaScript: Handles business logic, API calls, and UI updates.
 
