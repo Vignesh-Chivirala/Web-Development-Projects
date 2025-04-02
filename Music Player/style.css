@@ -1,0 +1,119 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&family=Varta:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #86BBD8;
+}
+
+.nav{
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    display: flex;
+    height: 65px;
+    width: 100%;
+}
+
+.logo img{
+    height: 65px;
+    width: 65px;
+    object-fit: cover;
+}
+
+.nav h3{
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Varela Round", sans-serif;
+    font-size: 25px;
+}
+li{
+    display: flex;
+    font-weight: bold;
+    align-items:center;
+    margin-left: 90px;
+    font-size: 18px;
+    font-family: "Varela Round", sans-serif;
+ 
+}
+
+.container{
+    min-height: 59.5vh;
+    background-color: black;
+    color: white;
+    font-family: "Varela Round", sans-serif;
+    display: flex;
+    margin: 23px auto;
+    width: 53%;
+    border-radius: 12px;
+    padding: 34px;
+    background-image: url('download.jpeg');
+
+}
+
+.bottom{
+    position: sticky;
+    height: 102.5px;
+    background-color: black;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.icons{
+    size: 50px;
+    margin-top: 14px;
+    cursor: pointer;
+
+}
+
+#length{
+    width: 80vw;
+    cursor: pointer;
+}
+
+.image img{
+    height: 400px;
+    width: 600px;
+}
+
+.songItem{
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 50%;
+    color: black;
+    margin: 15px 290px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 34px;
+    padding-left:30px;
+    font-family: "Varela Round", sans-serif;
+    font-weight: bold;
+}
+
+.songItem img{
+    width: 45px;  
+}
+
+.timestamp{
+    margin: 0 23px;
+}
+.timestamp i{
+    cursor: pointer;
+}
+.songInfo{
+    position: absolute;
+    left: 10vw;
+    color: white;
+    top: 8vh;
+    font-family: "Varela Round", sans-serif;
+}
+
