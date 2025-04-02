@@ -1,6 +1,10 @@
 # 🎵 Listen - Music Player
+
 ## 📌 Overview
 Listen is a beautifully designed web-based music player that allows users to browse and play songs seamlessly. With an intuitive UI and engaging visuals, it enhances the music listening experience by providing smooth playback controls and an easy-to-navigate song list.
+
+📷 Screenshot
+![Screenshot 2025-04-02 163202](https://github.com/user-attachments/assets/4054c8d7-a7c8-489b-a1ee-445ecf9e1c8a)
 
 ## 🚀 Features
 🎧 Play, Pause & Skip: Control music playback with ease.
@@ -11,9 +15,6 @@ Listen is a beautifully designed web-based music player that allows users to bro
 
 ## 🛠️ Technologies Used
 Frontend: HTML, CSS, JavaScript
-
-📷 Screenshot
-
 
 ## 🎶 How to Use
 Click on a song from the list to start playback.
