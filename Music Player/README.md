@@ -17,9 +17,9 @@ Listen is a beautifully designed web-based music player that allows users to bro
 Frontend: HTML, CSS, JavaScript
 
 ##  How to Use
-Click on a song from the list to start playback.
-Use the play/pause button to control playback.
-Adjust the progress bar to seek within the track.
+Click on a song from the list to start playback.<br>
+Use the play/pause button to control playback.<br>
+Adjust the progress bar to seek within the track.<br>
 Skip to the next or previous track using the navigation buttons.
 
 ## Future Enhancements
